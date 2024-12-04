@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/d404b0c6-74a0-49ed-9634-91848620c010)
-
+<img src="https://github.com/user-attachments/assets/d404b0c6-74a0-49ed-9634-91848620c010" alt="Image" width="500" height="200" />
 
 
 ## Hello, folks! This is Ahsan
