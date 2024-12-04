@@ -1,16 +1,14 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/5eaf3f30-3eed-4f13-a2e3-fbf72fdfe494)
 
-<!--
-**ahsanjaved850/ahsanjaved850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, folks! This is Ahsan
+ 
+## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
 
-Here are some ideas to get you started:
+-- 💡 Building something amazing - coming soon baby 😉
+-- 👯 If you are savvy at creativity, hit me up to change the world together
+-- 🥅 2023 Goals: building and testing products
+-- 📫 You can reach me out at jahsan850@gmail.com
+-- ⚡ Fun fact: Have strong entrepreneurial insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
