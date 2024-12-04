@@ -13,6 +13,6 @@
 
 # Languages and Tools
 
-![HTML5](https://img.icons8.com/color/38/000000/html-5.png)      ![CSS3](https://img.icons8.com/color/38/000000/css3.png)     ![JavaScript](https://img.icons8.com/color/38/000000/javascript--v1.png)     ![React](https://img.icons8.com/plasticine/38/000000/react.png)     ![JavaScript](https://img.icons8.com/color/38/000000/javascript--v1.png)     ![GitHub](https://img.icons8.com/ios-glyphs/38/000000/github.png)     ![Git](https://img.icons8.com/color/38/000000/git.png)     ![VS Code](https://img.icons8.com/color/38/000000/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/38/000000/html-5.png)      ![CSS3](https://img.icons8.com/color/38/000000/css3.png)     ![JavaScript](https://img.icons8.com/color/38/000000/javascript--v1.png)     ![React](https://img.icons8.com/plasticine/38/000000/react.png)     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)     ![GitHub](https://img.icons8.com/ios-glyphs/38/000000/github.png)     ![Git](https://img.icons8.com/color/38/000000/git.png)     ![VS Code](https://img.icons8.com/color/38/000000/visual-studio-code-2019.png)
 
 
